@@ -126,6 +126,11 @@ img {
     color: #2196F3;
 }
 
+.header-link-style-contacts:hover .header-link-contacts-icon,
+.header-link-style-contacts:focus .header-link-contacts-icon {
+    fill: #2196F3;
+}
+
 .header-link-contacts-list:not(:last-child) {
     margin-right: 50px;
 }
